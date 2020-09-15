@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: B:\Nikita\My_project\ProjectPy\Include\DiscordBot\DiscordBot.py:20
+msgid "Bot started!"
+msgstr "Бот запущен!"
+
+#: B:\Nikita\My_project\ProjectPy\Include\DiscordBot\DiscordBot.py:32
+msgid "Clearing the chat"
+msgstr "Очистка чата"
+
+#: B:\Nikita\My_project\ProjectPy\Include\DiscordBot\DiscordBot.py:34
+msgid "Kick the user"
+msgstr "Выгнать пользователя"
+
+#: B:\Nikita\My_project\ProjectPy\Include\DiscordBot\DiscordBot.py:47
+msgid "Clearing the chat. For example .clear 3"
+msgstr "Очистка чата. Например .clear 3"
+
+#: B:\Nikita\My_project\ProjectPy\Include\DiscordBot\DiscordBot.py:65
+msgid "Enter the number of messages to delete! For example .clear 3"
+msgstr "Введите количество сообщений, которые нужно удалить! Например .clear 3"
+
